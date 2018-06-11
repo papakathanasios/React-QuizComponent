@@ -6,3 +6,5 @@ class QuizQuestionButton extends Component{
                 <button>{this.props.quiz_question.answer_options[0]}</button></li>)
     }
 }
+
+export default QuizQuestionButton
