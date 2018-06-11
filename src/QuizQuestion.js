@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 
-class QuizQuestion  extends Comment{
+class QuizQuestion  extends Component{
     constructor(props){
         super(props)
         this.state = { quiz_position: 1 }
