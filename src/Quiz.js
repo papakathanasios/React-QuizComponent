@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import QuizQuestion from './QuizQuestion.js'
-import QuizQuestion from './QuizEnd.js'
 import QuizEnd from './QuizEnd.js';
 
 
